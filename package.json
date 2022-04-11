@@ -2,7 +2,7 @@
 	"name": "console-wrap-php-js-python",
 	"displayName": "Console Wrap PHP/JS/Python",
 	"description": "This extension helps you easily create log statements ( print_r(), console.log(), print() )",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"publisher": "Code-Elements",
 	"author": {
 		"name": "Code-Elements"
