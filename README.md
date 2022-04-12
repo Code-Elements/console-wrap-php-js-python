@@ -1,3 +1,7 @@
+If you want to thank me.
+
+[![Donate](https://img.shields.io/badge/Donate-Donationalerts-yellow)](https://www.donationalerts.com/r/shedu_wot)
+
 # Console Wrap PHP/JS/Python
 
 ## JS
@@ -9,15 +13,9 @@
 ## Python
 ![Python](https://github.com/Code-Elements/Console-Wrap-PHP-JS-Python/raw/HEAD/images/python.gif)
 
-# Donate
-
-If you want to thank me, or promote your issue.
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/SheduBCV)
-
 # Installing
 
-Install through VS Code extensions. Search for Console Wrap PHP/JS/Python
+Install through VS Code extensions.
 
 # How to use
 
