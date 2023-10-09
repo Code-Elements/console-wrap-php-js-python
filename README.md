@@ -1,7 +1,3 @@
-If you want to thank me.
-
-[![Donate](https://img.shields.io/badge/Donate-Donationalerts-yellow)](https://www.donationalerts.com/r/shedu_wot)
-
 # Console Wrap PHP/JS/Python
 
 ## JS
