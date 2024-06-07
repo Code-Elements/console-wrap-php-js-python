@@ -25,7 +25,7 @@
 			}
 
 			const selection = editor.selection;
-			
+
 			if (selection.isSingleLine === true) {
 
 				let range;
@@ -43,7 +43,7 @@
 				} else {
 					range = selection;
 				}
-				
+
 				const text = editor.document.getText(range);
 
 				if (editor.document.languageId === 'javascript' || editor.document.languageId === 'typescript') {
