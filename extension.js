@@ -46,7 +46,7 @@
 
 				const text = editor.document.getText(range);
 
-				if (editor.document.languageId === 'javascript' || editor.document.languageId === 'typescript') {
+				if (editor.document.languageId === 'javascript' || editor.document.languageId === 'typescript' || editor.document.languageId === 'typescriptreact') {
 					vscode.commands.executeCommand('editor.action.insertLineAfter').then(() => {
 						const logToInsert = `console.log("${text}: ", ${text});`;
 						insertText(editor, logToInsert);
